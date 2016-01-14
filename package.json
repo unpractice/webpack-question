@@ -1,0 +1,27 @@
+{
+  "name": "webpack-question",
+  "version": "1.0.0",
+  "description": "webpack-question",
+  "main": "main.js",
+  "scripts": {
+    "test": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unpractice/webpack-question.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "unofficial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unpractice/webpack-question/issues"
+  },
+  "homepage": "https://github.com/unpractice/webpack-question#readme",
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.4.0"
+  }
+}
